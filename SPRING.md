@@ -1,3 +1,4 @@
+applicationContext.xml
 # -
 IOC
 谁控制谁？
