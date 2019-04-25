@@ -8,5 +8,6 @@ IOC<br/>
 # -
 AOP<br/>
 https://blog.csdn.net/qq_39331713/article/details/82222276<br/>
-<<Spring AOP详解>>
+<<Spring AOP详解>><br/>
+核心关注点，横切关注点；纵向关系，横向关系；
 <br/>http://www.cnblogs.com/xrq730/p/4919025.html
