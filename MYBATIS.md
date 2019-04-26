@@ -26,7 +26,7 @@ usegeneratedkeys设true，keyproperty定主键<br/>
 15、Mybatis动态sql有什么用？执行原理？有哪些动态sql？<br/>
 动态标签：trim | where | set | foreach | if | choose | when | otherwise | bind<br/>
 16、Xml映射文件中，除了常见的select|insert|updae|delete标签之外，还有哪些标签？<br/>
-<resultMap>、<parameterMap>、<sql>、<include>、<selectKey>  <br/>
+resultMap、parameterMap、sql、include、selectKey  <br/>
 17、Mybatis的Xml映射文件中，不同的Xml映射文件，id是否可以重复？<br/>
 18、为什么说Mybatis是半自动ORM映射工具？它与全自动的区别在哪里？<br/>
 19、 一对一、一对多的关联查询 ？<br/>
