@@ -13,3 +13,7 @@ property节点 name、column、length、type。<br/>
 主配置文件:hibernate.cfg.xml; 配置数据库的信息property，其他参数，加载映射文件 mapping属性resource<br/>
 # -
 为什么要使用Hibernate？<br/>
+# -
+hibernate对数据操作 https://www.cnblogs.com/biehongli/p/6528001.html
+hibernate增加save(),修改update(),saveOrUpdate();主键查询session.get(User.class, 1)/session.load(User.class, 1);get()与load()的区别？<br/>
+HQL查询createQuery，HQL查询与SQL查询的区别？Criteria查询createCriteria();本地查询createSQLQuery()。
