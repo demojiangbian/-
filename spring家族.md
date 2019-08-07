@@ -25,7 +25,7 @@ http://mvnrepository.com/<br/>
 1.new一个project，选择jdk版本，选择使用spring initializr创建项目，next，使用默认选项，next；<br/>
 2.选择springboot版本和组件，版本可选，web，sql等根据需求选择，next；<br/>
 3.输入项目名，选择存放路径，finish；<br/>
-
-
 https://github.com/yangxuechen/springboot-BMSystem
 
+# spring学习
+http://blog.didispace.com/spring-boot-learning-1x/
